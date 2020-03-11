@@ -1,0 +1,12 @@
+#General files
+.DS_Store
+**/.ipynb_checkpoints/
+__pycache__
+.venv
+.env
+credentials
+.pytest_cache
+.vscode/
+
+#Project-specific files
+scores
