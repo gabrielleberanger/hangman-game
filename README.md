@@ -1,4 +1,4 @@
-## Hangman Game
+## Reproducing the well-known hangman game as a very first coding project
 
 *This game is the very first code that I made, as part of OpenClassrooms "Learn How to Code in Python" course.*
 
